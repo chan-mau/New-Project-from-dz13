@@ -1,0 +1,37 @@
+<dependencies>
+    <!-- Hibernate -->
+    <dependency>
+        <groupId>org.hibernate</groupId>
+        <artifactId>hibernate-project13</artifactId>
+        <version>5.5.7.Final</version>
+    </dependency>
+
+    <!-- Hibernate и MySQL -->
+    <dependency>
+        <groupId>org.mysql</groupId>
+        <artifactId>mysql-project13</artifactId>
+        <version>8.0.23</version>
+    </dependency>
+
+    <!-- Liquibase -->
+    <dependency>
+        <groupId>org.liquibase</groupId>
+        <artifactId>liquibase-project13</artifactId>
+        <version>4.24.1</version>
+    </dependency>
+
+    <!-- slf4j -->
+    <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-api</artifactId>
+        <version>1.7.32</version>
+    </dependency>
+
+    <!--logback -->
+    <dependency>
+        <groupId>ch.qos.logback</groupId>
+        <artifactId>logback-classic</artifactId>
+        <version>1.2.6</version>
+    </dependency>
+
+</dependencies>
